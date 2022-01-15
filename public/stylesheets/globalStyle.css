@@ -7,6 +7,9 @@
     width: max-content;
     padding: 2rem;
 }
+#getCards:hover{
+    background-color: rgba(25, 175, 50, .2);
+}
 #cardBoard{
     background-color: rgba(129, 77, 8, 0.863);  
     text-align: center;
