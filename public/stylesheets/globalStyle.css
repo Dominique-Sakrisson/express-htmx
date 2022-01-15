@@ -1,0 +1,21 @@
+#layer{
+    background-color: rgba(25, 175, 50, .5);
+    padding: 3rem;
+}
+
+#cardBoard{
+    background-color: rgba(129, 77, 8, 0.863);
+   
+}
+#cardBoard ul{
+    padding: 2rem;
+}
+#cardBoard li{
+    display: inline;
+    width: max-content;
+}
+#cardBoard img{
+    width: 267px;
+    height: 372px;
+   
+}
